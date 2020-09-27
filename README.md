@@ -29,6 +29,4 @@ python3 main.py
 ```
 
 
-Here is a good explanation of this algorithm:
-
-[link](https://towardsdatascience.com/understanding-lamport-timestamps-with-pythons-multiprocessing-library-12a6427881c6)
+Here is a good explanation of this algorithm: [link](https://towardsdatascience.com/understanding-lamport-timestamps-with-pythons-multiprocessing-library-12a6427881c6)
