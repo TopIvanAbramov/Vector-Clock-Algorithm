@@ -13,7 +13,7 @@ You should define each event of each process in process_{count} function
 
 For example:
 
-```
+```python
 def process_one(pipe12):
     pid = 0
     counter = [0, 0, 0]
